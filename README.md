@@ -47,6 +47,10 @@ RETIRAMOS LA R5 PARA MEDIR EL VOLTAJE EN EL CIRCUITO ABIERTO
 
 ![image](https://user-images.githubusercontent.com/93835587/148457072-9cac38da-850b-4a60-ab80-2675c365a3f6.png)
 
+FUENTES DE ALIMENTACION ANULADAS,R5 DESCONECTADA Y POR MEDIO DEL CIRCUITO ABIERTO RESUSLTANTE MEDIMOS LA RESISTENCIA EQUIVALENTE 
+
+![image](https://user-images.githubusercontent.com/93835587/148458021-8f9d9646-9716-4bfb-9936-d3030562d7a0.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**

@@ -51,6 +51,10 @@ FUENTES DE ALIMENTACION ANULADAS,R5 DESCONECTADA Y POR MEDIO DEL CIRCUITO ABIERT
 
 ![image](https://user-images.githubusercontent.com/93835587/148458021-8f9d9646-9716-4bfb-9936-d3030562d7a0.png)
 
+IMPLEMENTACION DEL CIRCUITO DE THEVENIN AGREGADA LA R5
+
+-Medicimos la corriente y el voltaje 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**

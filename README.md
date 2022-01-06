@@ -45,6 +45,8 @@ CORRIENTE EN R5
 
 RETIRAMOS LA R5 PARA MEDIR EL VOLTAJE EN EL CIRCUITO ABIERTO
 
+![image](https://user-images.githubusercontent.com/93835587/148457072-9cac38da-850b-4a60-ab80-2675c365a3f6.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**

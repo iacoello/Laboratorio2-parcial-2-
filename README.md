@@ -34,6 +34,10 @@
 
 ![image](https://user-images.githubusercontent.com/93835587/148464333-0387b9e0-47b6-4725-b38d-45e5d29e91df.png)
 
+**Comprobación del Teorema de Thévenin**
+
+![image](https://user-images.githubusercontent.com/93835587/148464990-468a7751-1d78-484c-aed9-1b4a2f796946.png)
+
 
 **Circuito armado**
 

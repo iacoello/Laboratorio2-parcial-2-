@@ -30,6 +30,11 @@
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
 
+**Valores del circuito equivalente de Thévenin**
+
+![image](https://user-images.githubusercontent.com/93835587/148464333-0387b9e0-47b6-4725-b38d-45e5d29e91df.png)
+
+
 **Circuito armado**
 
 ![image](https://user-images.githubusercontent.com/93835587/148454029-df3d2acd-32ef-4722-9da8-611160ca6e59.png)

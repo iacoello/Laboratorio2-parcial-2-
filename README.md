@@ -55,7 +55,14 @@ IMPLEMENTACION DEL CIRCUITO DE THEVENIN AGREGADA LA R5
 
 -Medicimos la corriente y el voltaje 
 
+VOLTAJE
+
 ![image](https://user-images.githubusercontent.com/93835587/148461953-1702d62e-189c-4487-8637-f7db6c31532a.png)
+
+CORRIENTE
+
+![image](https://user-images.githubusercontent.com/93835587/148462419-39564380-c578-42ce-ad7f-d60e821ce1c9.png)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

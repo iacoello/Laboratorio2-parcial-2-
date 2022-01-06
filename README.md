@@ -34,6 +34,7 @@
 
 ![image](https://user-images.githubusercontent.com/93835587/148454029-df3d2acd-32ef-4722-9da8-611160ca6e59.png)
 
+Medimos el voltaje y la corriente en R_5
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**

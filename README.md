@@ -43,7 +43,7 @@ CORRIENTE EN R5
 
 ![image](https://user-images.githubusercontent.com/93835587/148455716-4cab65db-670b-4b1a-baa8-10e2bce456eb.png)
 
-
+RETIRAMOS LA R5 PARA MEDIR EL VOLTAJE EN EL CIRCUITO ABIERTO
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

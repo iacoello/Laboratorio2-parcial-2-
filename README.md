@@ -29,6 +29,8 @@ Comprobar experimentalmente el teorema de Thévenin tanto para la corriente como
 
 **1.3 MARCO TEÓRICO**
 
+![Diagrama en blanco (5)](https://user-images.githubusercontent.com/93800511/148487921-01b71dd7-1039-49dd-bfdf-cfd02bc144f3.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**

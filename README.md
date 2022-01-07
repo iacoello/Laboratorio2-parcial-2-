@@ -72,15 +72,25 @@ CORRIENTE
 
 Parte Analítica 
 
-![image](https://user-images.githubusercontent.com/93835533/148472615-68bfa05b-b8c9-4ed0-a66d-a8261a528a52.png)
+![image](https://user-images.githubusercontent.com/93835533/148472902-a5ea03b8-6322-41de-b2ca-e301ec8637f1.png)
 
-![image](https://user-images.githubusercontent.com/93835533/148472623-2ed877c9-a2e2-4e0b-ac42-d84dc8119e43.png)
+![image](https://user-images.githubusercontent.com/93835533/148472906-3cd8ac6a-23a0-4fd2-90ab-c1d3ab8550f4.png)
 
-![image](https://user-images.githubusercontent.com/93835533/148472663-9ae64bb4-a99e-43f3-956e-fb0b3f9e6198.png)
+![image](https://user-images.githubusercontent.com/93835533/148472922-a2329189-91ac-49f0-9a5d-189be4e7ab15.png)
 
-![image](https://user-images.githubusercontent.com/93835533/148472676-bbcfd86a-a180-45a5-bb87-cee6f4300609.png)
+![image](https://user-images.githubusercontent.com/93835533/148472930-7e18e5e5-74b0-433e-857a-59f0e5d27fa0.png)
 
-![image](https://user-images.githubusercontent.com/93835533/148472683-bd0d65e3-2da9-4df6-a918-94496b92aa7f.png)
+![image](https://user-images.githubusercontent.com/93835533/148472937-05c8d65b-9122-4680-b9ba-11071b4bc1f0.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473022-9b84544e-68f2-40d8-b439-33877e14ba38.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473031-cb772728-9db0-4b00-82d7-ff5d9b7257a6.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473108-a6e43d1e-a461-4003-a6f9-b42ee51dfbb1.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473209-bdc13128-2efa-4405-bf9b-e397ad8f3199.png)
+
+
 
 
 

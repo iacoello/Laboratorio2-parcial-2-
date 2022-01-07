@@ -18,9 +18,12 @@
 
 **1.1 OBJETIVO GENERAL**
 
+Aplicar el concepto del teorema de Thévenin para los circuitos electronicos en serie y en paralelo con sus implicaciones al calculo de los mismos, desarrollados en un circuito resistivo. 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.2 OBJETIVOS ESPECIFICOS**
+Comprobar experimentalmente el teorema de Thévenin tanto para la corriente como para los voltajes comprobado por un circuito calculado y uno medido. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -127,6 +130,8 @@ Parte Analítica
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.7 .CONCLUCIONES**
+
+En conclucion el teorema de Thévenin representa una forma sencilla y factible de desarrollar un circuito electronico y su analisis ya que la representacion equivalente que este permite al remplazar componentes resistivos representandolos con una sola fuente de voltaje resulta mas eficiente para la obtencion de los datos a usar.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

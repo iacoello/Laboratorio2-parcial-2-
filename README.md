@@ -98,7 +98,7 @@ Parte Analítica
 
 ![image](https://user-images.githubusercontent.com/93835533/148473487-38d0590c-ae9f-4cc4-adb2-ba47ed9151cc.png)
 
-![image](https://user-images.githubusercontent.com/93835533/148473612-71833536-0b1c-4ff4-874e-0ec4b3eeead4.png)
+
 
 ![image](https://user-images.githubusercontent.com/93835533/148473656-f72685d6-bd0c-42a3-9e88-176047be9475.png)
 

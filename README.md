@@ -137,5 +137,7 @@ En conclucion el teorema de Thévenin representa una forma sencilla y factible d
 
 **1.8.BIBLIOGRAFÍA**
 
+Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

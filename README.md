@@ -70,6 +70,19 @@ CORRIENTE
 ![image](https://user-images.githubusercontent.com/93835587/148462419-39564380-c578-42ce-ad7f-d60e821ce1c9.png)
 
 
+Parte Analítica 
+
+![image](https://user-images.githubusercontent.com/93835533/148472615-68bfa05b-b8c9-4ed0-a66d-a8261a528a52.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148472623-2ed877c9-a2e2-4e0b-ac42-d84dc8119e43.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148472663-9ae64bb4-a99e-43f3-956e-fb0b3f9e6198.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148472676-bbcfd86a-a180-45a5-bb87-cee6f4300609.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148472683-bd0d65e3-2da9-4df6-a918-94496b92aa7f.png)
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

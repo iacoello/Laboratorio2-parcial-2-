@@ -125,6 +125,9 @@ Parte Analítica
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+![692eead2-b00c-45e9-9cd8-8e63bc8fdc7a](https://user-images.githubusercontent.com/93835587/148559412-a99f83dd-147b-4ee7-9bae-bcf079d48fbd.jpg)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.6 VIDEOS**

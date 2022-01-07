@@ -90,6 +90,28 @@ Parte Analítica
 
 ![image](https://user-images.githubusercontent.com/93835533/148473209-bdc13128-2efa-4405-bf9b-e397ad8f3199.png)
 
+![image](https://user-images.githubusercontent.com/93835533/148473387-ef1e6f6f-67df-4680-831b-6f5465a1a200.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473399-882f5f9e-67a5-4f3e-9aa9-977f60027e7b.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473408-c8074bb2-8272-4d36-bb2b-59de8377e6cf.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473487-38d0590c-ae9f-4cc4-adb2-ba47ed9151cc.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473612-71833536-0b1c-4ff4-874e-0ec4b3eeead4.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473656-f72685d6-bd0c-42a3-9e88-176047be9475.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473669-f42ab77f-b7f7-4b31-b80d-3ca788d91fc4.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473735-c32d6d87-fe11-49c6-a44f-8244411bd63c.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473818-520d8b82-84ff-4288-9adb-e6bbf0ca8fa1.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473843-239c8214-97b0-4faa-94be-d3599db5f87f.png)
+
+![image](https://user-images.githubusercontent.com/93835533/148473905-cb5ad2d5-174e-415e-bcc4-ee2545576399.png)
+
 
 
 

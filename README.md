@@ -75,6 +75,9 @@ CORRIENTE
 ![image](https://user-images.githubusercontent.com/93835587/148462419-39564380-c578-42ce-ad7f-d60e821ce1c9.png)
 
 
+![jjjj](https://user-images.githubusercontent.com/93835533/148855373-731beb2d-835b-4976-b644-2bb8dd0292e0.jpeg)
+
+
 Parte Analítica 
 
 ![image](https://user-images.githubusercontent.com/93835533/148472902-a5ea03b8-6322-41de-b2ca-e301ec8637f1.png)
